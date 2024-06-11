@@ -17,7 +17,7 @@ This is a Flask web application for managing user profiles, payments, analysis, 
 1. Clone the repository:
 
 ```bash
-
+git clone https://github.com/Kumara-Gurubaran-M/amendspro.git
 ```
 2.Install the dependencies:
 ```
